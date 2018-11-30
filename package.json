@@ -1,0 +1,23 @@
+{
+  "name": "study_puppeteer",
+  "version": "1.0.0",
+  "description": "test puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunchae/study_puppeteer.git"
+  },
+  "author": "yunchae",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yunchae/study_puppeteer/issues"
+  },
+  "homepage": "https://github.com/yunchae/study_puppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^1.11.0"
+  }
+}
